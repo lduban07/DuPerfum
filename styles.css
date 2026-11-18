@@ -81,7 +81,7 @@ h1{
 .track::-webkit-scrollbar{display:none}
 .card{
   flex:0 0 78%;scroll-snap-align:center;
-  border-radius:22px;overflow:hidden;
+  border-radius:4px;overflow:hidden;
   background:rgba(244,250,248,.07);
   border:1px solid rgba(244,250,248,.18);
   box-shadow:0 14px 34px rgba(0,0,0,.28);
